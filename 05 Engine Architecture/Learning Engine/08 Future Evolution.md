@@ -1,0 +1,3 @@
+Adaptive revision
+Learning analytics
+Personalized scheduling

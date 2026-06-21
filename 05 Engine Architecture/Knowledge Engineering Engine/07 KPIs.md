@@ -1,0 +1,4 @@
+Asset Quality
+Theme Coverage
+Knowledge Freshness
+Relationship Density

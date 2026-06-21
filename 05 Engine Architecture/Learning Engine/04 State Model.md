@@ -1,0 +1,1 @@
+Knowledge Asset → Understanding → Memory → Connected Knowledge → Competence → Learning State

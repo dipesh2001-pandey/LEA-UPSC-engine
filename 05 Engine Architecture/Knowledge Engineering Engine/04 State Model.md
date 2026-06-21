@@ -1,0 +1,1 @@
+Information → Capture → Validate → Analyze → Structure → Knowledge Asset → Theme → Knowledge Stock → Review → Refine → Version
