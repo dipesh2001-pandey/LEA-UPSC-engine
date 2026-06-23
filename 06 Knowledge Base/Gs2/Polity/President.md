@@ -665,6 +665,14 @@ This single design principle explains:
 
 > _"The President symbolizes the constitutional authority Sentinel of the Republic, while democratic governance is exercised through the Council of Ministers collectively responsible to the Lok Sabha."_
 
+> **Constitutional Metaphor**
+> 
+> _"The waters of the Yamuna are fertilized by the Thames, not the Potomac."_
+> 
+> **Meaning:** India's Constitution consciously adopted the **Westminster parliamentary model** (United Kingdom) rather than the **American presidential model** (United States). Consequently, the President is the **constitutional head**, while the **Council of Ministers headed by the Prime Minister** exercises the real executive power.
+
+> 
+> **Related Judicial Authority:** _Shamsher Singh v. State of Punjab (1974)_ reaffirmed that India follows the Westminster model, under which the President ordinarily acts on the aid and advice of the Council of Ministers.
 
 # 9. Connections
 
