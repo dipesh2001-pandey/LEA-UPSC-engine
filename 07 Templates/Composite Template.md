@@ -57,9 +57,9 @@ Clearly define:
 
 ### Included Themes
 
-- [[President]]
-- [[Vice President]]
-- [[Prime Minister]]
+- President
+- Vice President
+- Prime Minister
 - [[Council of Ministers]]
 - [[Cabinet]]
 - [[Attorney General]]
